@@ -6,7 +6,7 @@ Text animations were made by Brielle and were retrieved from https://codepen.io/
 
 Sample screenshot
 
-![](screenshot.png)
+![](screenshot.PNG)
 
 # Issues
 The OpenWeatherMap API doesn't have the most accurate zipcode data. For example, when given the zipcode of my hometown Burlington CO (80807), it gives the location as Colorado Springs.
