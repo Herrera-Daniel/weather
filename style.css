@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 body {
 	background-image: url("background.jpg");
 }
@@ -11,10 +11,10 @@ body {
 }
 
 .script {
-	font-family: "Frank Ruhl Libre";
+	font-family: "Playfair Display";
 	color: #fff;
 	text-align: center;
-	font-size: 40px;
+	font-size: 26px;
 	position: relative;
 	margin: 0;
 }
@@ -54,12 +54,12 @@ div.content button {
 }
 
 div.weather h2 {
-	font-family: "Frank Ruhl Libre";
+	font-family: "Playfair Display";
 	display: flex;
 	justify-content: center;
 	color: white;
 	text-shadow: 2px 2px 2px #333;
-	font-size: 40px;
+	font-size: 32px;
 	animation-duration: .5s;
 	animation-name: fadeAndScale;
 	animation-timing-function: cubic-bezier(.71, .55, .62, 1.57);
@@ -79,10 +79,6 @@ form {
 	animation-name: fadeAndScale;
 	animation-timing-function: cubic-bezier(.71, .55, .62, 1.57);
 	display: inline-block;
-}
-
-h1 {
-	font-size: 32px;
 }
 
 div.content button:hover {
