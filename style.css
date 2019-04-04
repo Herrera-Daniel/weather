@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre);
 body {
 	background-image: url("background.jpg");
 }
@@ -11,7 +11,7 @@ body {
 }
 
 .script {
-	font-family: "Shadows Into Light";
+	font-family: "Frank Ruhl Libre";
 	color: #fff;
 	text-align: center;
 	font-size: 40px;
@@ -54,7 +54,7 @@ div.content button {
 }
 
 div.weather h2 {
-	font-family: "Shadows Into Light";
+	font-family: "Frank Ruhl Libre";
 	display: flex;
 	justify-content: center;
 	color: white;
