@@ -5,6 +5,7 @@ CSS icons were made by Tiffany Du and were retrieved from https://codepen.io/tif
 Text animations were made by Brielle and were retrieved from https://codepen.io/buntinb/pen/OEjENG.
 
 Sample screenshot
+
 ![] (screenshot.png)
 
 # Issues
