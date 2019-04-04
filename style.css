@@ -41,7 +41,7 @@ div.content input {
 div.content button {
 	background-color: #97012F;
 	color: white;
-	border: 2px solid black;
+	border: 2px solid white;
 	padding: 5px 5px;
 	text-align: center;
 	text-decoration: none;
@@ -82,8 +82,17 @@ form {
 }
 
 div.content button:hover {
-	background-color: black;
+	background-color: white;
+	color: black;
+}
+
+.footer a {
+	position: fixed;
+	left: 0;
+	bottom: 3em;
+	width: 100%;
 	color: white;
+	text-align: center;
 }
 
 /*** Text animations were made by Brielle at https://codepen.io/tiffanyadu/pen/OprNrV ***/
