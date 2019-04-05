@@ -1,5 +1,6 @@
 # Weather Website
 > A small website that takes a user entered zipcode and retrieves the current weather using the AccuWeather API
+>http://danielherrera.space/weather/
 
 CSS icons were made by Tiffany Du and were retrieved from https://codepen.io/tiffanyadu/pen/OprNrV.
 Text animations were made by Brielle and were retrieved from https://codepen.io/buntinb/pen/OEjENG.
