@@ -16,7 +16,7 @@ function getLocationKey() {
     var locationkey;
     var usZip = false;
     if (zipCheck(zip)) {
-        fetch("http://dataservice.accuweather.com/locations/v1/postalcodes/search?apikey=1zGOaKyKxS4Os4itr9J8w0rZddeOK3XM&q=" + zip + "&language=en-us&details=true")  //Request data from API
+        fetch("http://dataservice.accuweather.com/locations/v1/postalcodes/search?apikey=<API key>=" + zip + "&language=en-us&details=true")  //Request data from API
             .then(function (data) { return data.json(); })  //Retrieve json object
             .then(function (myJson) {
                 myJson.forEach(element => {
